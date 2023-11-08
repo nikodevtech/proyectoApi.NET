@@ -1,0 +1,10 @@
+C:\Users\Puesto9\source\repos\ejercicioConsumirApi\ejercicioConsumirApi\bin\Debug\ejercicioConsumirApi.exe.config
+C:\Users\Puesto9\source\repos\ejercicioConsumirApi\ejercicioConsumirApi\bin\Debug\ejercicioConsumirApi.exe
+C:\Users\Puesto9\source\repos\ejercicioConsumirApi\ejercicioConsumirApi\bin\Debug\ejercicioConsumirApi.pdb
+C:\Users\Puesto9\source\repos\ejercicioConsumirApi\ejercicioConsumirApi\obj\Debug\ejercicioConsumirApi.csproj.AssemblyReference.cache
+C:\Users\Puesto9\source\repos\ejercicioConsumirApi\ejercicioConsumirApi\obj\Debug\ejercicioConsumirApi.csproj.CoreCompileInputs.cache
+C:\Users\Puesto9\source\repos\ejercicioConsumirApi\ejercicioConsumirApi\obj\Debug\ejercicioConsumirApi.exe
+C:\Users\Puesto9\source\repos\ejercicioConsumirApi\ejercicioConsumirApi\obj\Debug\ejercicioConsumirApi.pdb
+C:\Users\Puesto9\source\repos\ejercicioConsumirApi\ejercicioConsumirApi\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Puesto9\source\repos\ejercicioConsumirApi\ejercicioConsumirApi\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Puesto9\source\repos\ejercicioConsumirApi\ejercicioConsumirApi\obj\Debug\ejercicioConsumirApi.csproj.CopyComplete
